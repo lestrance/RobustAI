@@ -79,17 +79,6 @@ We provide three MATLAB Live Scripts corresponding to the three main experiments
 
 ---
 
-## 📊 Key Results Summary
-
-| Method                | Clean Accuracy | Accuracy under PGD (A8) |
-|-----------------------|----------------|--------------------------|
-| ResNet-50 (baseline)  | 86.2%          | 16.4%                    |
-| + AAS-JR (ours)       | 85.9%          | **49.2%**                |
-
-For complete tables and visualisations, refer to the paper and output of the Live Scripts.
-
----
-
 ## 📎 Citation
 
 If our paper is officially accepted, please cite it as:
@@ -107,4 +96,4 @@ If our paper is officially accepted, please cite it as:
 For questions or collaborations, feel free to contact:
 
 [Shuohan Xue](https://ieeexplore.ieee.org/author/37088931505) — sxue6@sheffield.ac.uk  
-[Dr.Charith Abhayaratne](https://www.sheffield.ac.uk/eee/people/academic/charith-abhayaratne) — c.abhayaratne@sheffield.ac.uk
+[Dr.Charith Abhayaratne](https://sheffield.ac.uk/eee/people/academic-staff/charith-abhayaratne) — c.abhayaratne@sheffield.ac.uk
