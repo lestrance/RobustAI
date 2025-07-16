@@ -2,7 +2,7 @@
 
 **IEEE Access 2025 (Under Review)**  
 📅 Submitted: 1st July 2025  
-🧠 Authors: Shuohan Xue*, Charith Abhayaratne  
+🧠 Authors: Shuohan Xue, Charith Abhayaratne  
 📬 [sxue6@sheffield.ac.uk](mailto:sxue6@sheffield.ac.uk)  
 🔗 GitHub Repository: https://github.com/lestrance/RobustAI
 
