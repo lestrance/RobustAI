@@ -30,35 +30,19 @@ All experiments are implemented in MATLAB R2024b and validated on subsets of the
 
 ---
 
-## 🗂 Repository Structure
-
-RobustAI/
-├── code/ # Core MATLAB scripts
-│ ├── feature_extraction/ # DNN + WSN feature extraction
-│ ├── aas_detection/ # AAS computation and detection
-│ ├── training/ # Baseline and AAS-JR training
-│ └── config/ # Parameter settings
-├── notebooks/ # MATLAB Live Scripts (.mlx) for demonstration
-├── data/ # Images, extracted features, and results
-├── figures/ # Visual results from the paper
-├── README.md
-├── LICENSE
-└── .gitignore
-
----
 
 ## 🧪 Reproducing Experiments (Live Scripts)
 
-We provide three MATLAB Live Scripts corresponding to the three main experiments in the paper:
+We provide three MATLAB Live Scripts that reproduce the core experiments described in the paper. These scripts are self-contained and can be run interactively in MATLAB R2024b.
 
 | Experiment | Description | Script |
 |-----------|-------------|--------|
-| **1** | Validate robustness of hand-crafted features vs DNN | `Experiment1_FeatureRobustness.mlx` |
-| **2** | Compute and evaluate Adversarial Awareness Score (AAS) | `Experiment2_AASDetection.mlx` |
-| **3** | Train with AAS-guided Jacobian Regularisation | `Experiment3_AAS_JacobianTraining.mlx` |
+| **1** | Compare adversarial robustness of WSN and DNN features | `Experiment_01.mlx` |
+| **2** | Calculate and evaluate the Adversarial Awareness Score (AAS) | `Experiment_02.mlx` |
+| **3** | Retrain model with AAS-guided Jacobian Regularisation | `Experiment_03.mlx` |
 
-> 🧭 All scripts tested with **MATLAB R2024b**  
-> 🧰 Required toolboxes: *Deep Learning Toolbox, Wavelet Toolbox, Statistics and Machine Learning Toolbox*
+> ✅ Tested with **MATLAB R2024b**  
+> 📦 Required Toolboxes: *Deep Learning Toolbox*, *Wavelet Toolbox*, *Statistics and Machine Learning Toolbox*
 
 ---
 
