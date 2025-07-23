@@ -30,21 +30,33 @@ All experiments are implemented in MATLAB R2024b and validated on subsets of the
 
 ---
 
+## 📁 Repository Contents
 
+This repository contains three self-contained MATLAB Live Scripts that include all necessary code, functions, and implementations:
+
+```
 RobustAI/
-├── 📁 code/
-│   ├── 📁 config/          # Configuration and parameter files
-│   ├── 📁 attacks/         # Adversarial attack implementations
-│   ├── 📁 defenses/        # AAS and regularisation methods
-│   ├── 📁 features/        # WSN feature extraction
-│   └── 📁 utils/           # Helper functions and utilities
-├── 📁 notebooks/
-│   ├── Experiment_01.mlx   # Feature robustness comparison
-│   ├── Experiment_02.mlx   # AAS evaluation
-│   └── Experiment_03.mlx   # Jacobian regularisation training
-├── 📁 data/                # Dataset preprocessing scripts
-├── 📁 results/             # Experimental outputs and figures
-└── 📄 README.md
+├── 📄 Experiment_01.mlx    # Complete implementation of WSN vs DNN feature robustness analysis
+│                           # Includes: WSN feature extraction, adversarial attack generation.
+│                           # robustness metrics calculation, and comparative visualisations
+│
+├── 📄 Experiment_02.mlx    # Full AAS calculation and evaluation pipeline  
+│                           # Includes: AAS computation algorithms, detection threshold optimisation,
+│                           # ROC analysis, and performance benchmarking against baselines
+│
+├── 📄 Experiment_03.mlx    # AAS-guided Jacobian Regularisation training framework
+│                           # Includes: Dynamic regularisation implementation, model training loops.
+│                           # adversarial robustness evaluation, and clean accuracy preservation
+│
+└── 📄 README.md           # This documentation file
+```
+
+**📋 Live Script Features:**
+- **Self-contained**: Each `.mlx` file contains all required functions and implementations
+- **Interactive**: Rich text explanations, live code execution, and inline visualisations  
+- **Reproducible**: Fixed random seeds and documented parameters for consistent results
+- **Educational**: Step-by-step explanations of algorithms and methodologies
+
 
 
 ## 🧪 Reproducing Experiments (Live Scripts)
