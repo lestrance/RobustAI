@@ -112,7 +112,7 @@ For questions or collaborations, feel free to contact:
 
 ## Author's Biography
 
-Shuohan XUE received the B.E. degree in Mechatronics Engineering from The North University of China, Shanxi, China, in 2015, and the MSc degree in electronic and electrical engineering from the University of Sheffield, U.K., in 2019. He is currently a Ph.D. student in the Department of Electronic and Electrical engineering in The University of Sheffield. 
+Shuohan Xue received the B.E. degree in Mechatronics Engineering from the North University of China, Shanxi, China, in 2015, and the M.Sc. degree in Electronic and Electrical Engineering from the University of Sheffield, U.K., in 2019. He recently completed his Ph.D. in the Department of Electronic and Electrical Engineering at the University of Sheffield in 2024. His research focuses on interpretable and trustworthy deep learning, with particular interest in real-world scenarios such as human-level image recognition, medical imaging, and autonomous vehicles.
 
 <img src="Images/xue.jpg" width="150" height="230">
 
