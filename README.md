@@ -31,6 +31,22 @@ All experiments are implemented in MATLAB R2024b and validated on subsets of the
 ---
 
 
+RobustAI/
+├── 📁 code/
+│   ├── 📁 config/          # Configuration and parameter files
+│   ├── 📁 attacks/         # Adversarial attack implementations
+│   ├── 📁 defenses/        # AAS and regularisation methods
+│   ├── 📁 features/        # WSN feature extraction
+│   └── 📁 utils/           # Helper functions and utilities
+├── 📁 notebooks/
+│   ├── Experiment_01.mlx   # Feature robustness comparison
+│   ├── Experiment_02.mlx   # AAS evaluation
+│   └── Experiment_03.mlx   # Jacobian regularisation training
+├── 📁 data/                # Dataset preprocessing scripts
+├── 📁 results/             # Experimental outputs and figures
+└── 📄 README.md
+
+
 ## 🧪 Reproducing Experiments (Live Scripts)
 
 We provide three MATLAB Live Scripts that reproduce the core experiments described in the paper. These scripts are self-contained and can be run interactively in MATLAB R2024b.
