@@ -109,3 +109,15 @@ For questions or collaborations, feel free to contact:
 
 [Shuohan Xue](https://ieeexplore.ieee.org/author/37088931505) — sxue6@sheffield.ac.uk  
 [Dr.Charith Abhayaratne](https://sheffield.ac.uk/eee/people/academic-staff/charith-abhayaratne) — c.abhayaratne@sheffield.ac.uk
+
+## Author's Biography
+
+Shuohan XUE received the B.E. degree in Mechatronics Engineering from The North University of China, Shanxi, China, in 2015, and the MSc degree in electronic and electrical engineering from the University of Sheffield, U.K., in 2019. He is currently a Ph.D. student in the Department of Electronic and Electrical engineering in The University of Sheffield. 
+
+<img src="Images/xue.jpg" width="150" height="200">
+
+Charith Abhayaratne(M’98) received the B.E. degree in electrical and electronic engineering from The University of Adelaide, Australia, in 1998, and the Ph.D. degree in electronic and electrical engineering from the University of Bath, U.K., in 2002. He was a recipient of the European Research Consortium for Informatics and Mathematics (ERCIM) Post-Doctoral Fellowship (2002-2004) to carry out research at the Centre of Mathematics and Computer Science (CWI), The Netherlands, and the National Research Institute for Computer Science and Control (INRIA), Sophia Antipolis, France.  He is currently a Lecturer with the Department of Electronic and Electrical Engineering, The University of Sheffield, U.K. His research interests include visual content analysis, visual content security, machine learning and multidimensional signal processing. He has published over 90 peer reviewed papers in leading journals, conferences and book editions. Currently, he serves as an associate editor for IEEE Transactions on Image Processing, IEEE Access and Elsevier Journal of Information Security and Applications (JISA). 
+
+<img src="Images/charith_2022.jpg" width="150" height="200">
+
+
