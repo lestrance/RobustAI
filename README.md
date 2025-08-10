@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Status-Under%20Review-yellow.svg)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 
 **IEEE Access 2025 (Under Review)**  
-📅 Submitted: 1st July 2025  
+📅 Submitted: 16th June 2025  
 🧠 Authors: Shuohan Xue, Charith Abhayaratne  
 📬 [sxue6@sheffield.ac.uk](mailto:sxue6@sheffield.ac.uk)  
 🔗 GitHub Repository: https://github.com/lestrance/RobustAI
