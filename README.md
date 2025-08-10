@@ -160,7 +160,7 @@ We provide three MATLAB Live Scripts that reproduce the core experiments describ
 
 ## 📊 Demonstration Results
 
-Our method provides clear visual distinction between clean and adversarial examples through comprehensive analysis pipeline:
+Our method provides a clear visual distinction between clean and adversarial examples through a comprehensive analysis pipeline:
 
 ### Clean Image Analysis
 ![Clean Image Analysis](cl_aas_01.png)
@@ -178,16 +178,6 @@ Our method provides clear visual distinction between clean and adversarial examp
 
 ---
 
-## 🎯 Performance Highlights
-
-| Method | Accuracy | Precision | Recall | F1-Score |
-|--------|----------|-----------|---------|----------|
-| **AAS (Ours)** | **87.28%** | **87.68%** | **87.38%** | **87.53%** |
-| FreqVAE | 81.50% | 77.60% | 78.80% | 78.17% |
-| SQ+SF | 67.23% | 69.30% | 73.93% | 71.45% |
-| FS | 59.02% | 55.95% | 57.45% | 56.68% |
-
----
 
 ## 🔧 Method Components
 
