@@ -200,7 +200,7 @@ Our method provides a clear visual distinction between clean and adversarial exa
 
 The method has been validated on:
 - **Dataset**: ImageNet subset (10,000+ images)
-- **Architectures**: ResNet-18, ResNet-50, VGG-16
+- **Architectures**: ResNet-18, ResNet-50, VGG, InceptionV3, GoogleNet, NASNet-Large, EfficientNet
 - **Attacks**: FGSM, PGD, C&W
 - **Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
