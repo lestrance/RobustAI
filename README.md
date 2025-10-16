@@ -13,7 +13,7 @@
 
 ---
 
-## ⚠️ NOTICE – PAPER UNDER REVIEW
+## ⚠️ NOTICE – PAPER Accepted. Awaiting formal publication
 
 > 📢 **This repository has been made publicly available to support the peer-review process of our manuscript currently under review at _IEEE Access_ (submitted on 1st July 2025).**  
 >  
