@@ -5,7 +5,7 @@
 [![Wavelet Toolbox](https://img.shields.io/badge/Wavelet%20Toolbox-Required-green.svg)](https://www.mathworks.com/products/wavelet.html)
 [![Status](https://img.shields.io/badge/Status-Under%20Review-yellow.svg)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 
-**IEEE Access 2025 (Paper Accepted; available online soon)**  
+**IEEE Access 2025 (Paper Published)**  
 📅 Submitted: 1st July 2025  
 🧠 Authors: Shuohan Xue, Charith Abhayaratne  
 📬 [sxue6@sheffield.ac.uk](mailto:sxue6@sheffield.ac.uk)  
